@@ -1,4 +1,4 @@
-#Time Machine
+# Time Machine
 Responsive website created during my Web Technologies course at OTH Regensburg.
 
 ### Features
